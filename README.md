@@ -18,7 +18,7 @@ The dataset consists of one table called AI_Tools_in_Education- India
 
 # **🗂️ Data Highlights**
 
-•	Capture student details: name, college, stream, year, device, and state
+•	Capture student details: name, college, stream, device, and state
 
 •	Track AI tool usage: daily hours, use cases, preferred tools, trust levels, and impact on grades
 
@@ -81,7 +81,7 @@ The dashboard answers the following questions
 
 •	Track KPIs at a glance for quick insights
 
-•	Identify high-performing tools, streams, and regions
+•	Identify high-performing tools, streams, and State
 
 •	Recognize underperforming categories for targeted improvement
 
